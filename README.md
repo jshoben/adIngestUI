@@ -1,20 +1,20 @@
-UI tasks left
--nav menu link highlighting
--ingest rollback if one row fails
--Additional metrics (see below- UI 'total clicks' metric refers to product for specific source and date currently)
-  -clicks per source
-  -clicks per product
-  -clicks per date
-  -clicks per source for specific product
-  -clicks per source for specific date
-  -clicks per source for specific product and date
-  -clicks per product for specific source
-  -clicks per product for specific date
-  -clicks per date for specific source
-  -clicks per date for specific product
-  -clicks per date for specific source and product
--Additional logging
--Confirmation of ingest
+UI tasks left  
+-nav menu link highlighting  
+-ingest rollback if one row fails  
+-Additional metrics (see below- UI 'total clicks' metric refers to product for specific source and date currently)  
+  -clicks per source  
+  -clicks per product   
+  -clicks per date  
+  -clicks per source for specific product  
+  -clicks per source for specific date  
+  -clicks per source for specific product and date  
+  -clicks per product for specific source  
+  -clicks per product for specific date  
+  -clicks per date for specific source  
+  -clicks per date for specific product  
+  -clicks per date for specific source and product  
+-Additional logging  
+-Confirmation of ingest  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
