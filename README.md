@@ -1,6 +1,7 @@
 UI tasks left  
 -nav menu link highlighting  
 -ingest rollback if one row fails  
+-move json iteration to backend for optimization  
 -Additional metrics (see below- UI 'total clicks' metric refers to product for specific source and date currently)  
   -clicks per source  
   -clicks per product   
